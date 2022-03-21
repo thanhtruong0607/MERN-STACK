@@ -8,9 +8,9 @@ const pizzas =[
 		],
 		prices: [
 			{
-				small: 200,
-				medium: 350,
-				large: 400
+				small: 40000,
+				medium: 60000,
+				large: 80000
 			}
 		],
 		category: "nonveg",
@@ -26,9 +26,9 @@ const pizzas =[
 		],
 		prices: [
 			{
-				small: 200,
-				medium: 350,
-				large: 400
+				small: 45000,
+				medium: 65000,
+				large: 85000
 			}
 		],
 		category: "nonveg",
@@ -44,9 +44,9 @@ const pizzas =[
 		],
 		prices: [
 			{
-				small: 180,
-				medium: 250,
-				large: 320
+				small: 35000,
+				medium: 55000,
+				large: 75000
 			}
 		],
 		category: "nonveg",
